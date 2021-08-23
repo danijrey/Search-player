@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.formElements {
+  margin: 10px;
+}
+.AppForm {
+  text-align: center;
+}
+.containerResult {
+  display: flex;
+}
+.searchResult {
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(2, 200px);
+  grid-gap: 10px;
+}
